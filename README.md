@@ -1,7 +1,7 @@
 # OOPlaba_1
 #include <iostream>
 using namespace std;
-int main()
+void main()
 {
   cout << Timur << endl;
   cout << Group number 1 << endl;
